@@ -1,0 +1,10 @@
+C:\Users\Jason\source\repos\LearningHashSets\LearningHashSets\bin\Debug\netcoreapp3.0\LearningHashSets.exe
+C:\Users\Jason\source\repos\LearningHashSets\LearningHashSets\bin\Debug\netcoreapp3.0\LearningHashSets.deps.json
+C:\Users\Jason\source\repos\LearningHashSets\LearningHashSets\bin\Debug\netcoreapp3.0\LearningHashSets.runtimeconfig.json
+C:\Users\Jason\source\repos\LearningHashSets\LearningHashSets\bin\Debug\netcoreapp3.0\LearningHashSets.runtimeconfig.dev.json
+C:\Users\Jason\source\repos\LearningHashSets\LearningHashSets\bin\Debug\netcoreapp3.0\LearningHashSets.dll
+C:\Users\Jason\source\repos\LearningHashSets\LearningHashSets\bin\Debug\netcoreapp3.0\LearningHashSets.pdb
+C:\Users\Jason\source\repos\LearningHashSets\LearningHashSets\obj\Debug\netcoreapp3.0\LearningHashSets.AssemblyInfoInputs.cache
+C:\Users\Jason\source\repos\LearningHashSets\LearningHashSets\obj\Debug\netcoreapp3.0\LearningHashSets.AssemblyInfo.cs
+C:\Users\Jason\source\repos\LearningHashSets\LearningHashSets\obj\Debug\netcoreapp3.0\LearningHashSets.dll
+C:\Users\Jason\source\repos\LearningHashSets\LearningHashSets\obj\Debug\netcoreapp3.0\LearningHashSets.pdb
